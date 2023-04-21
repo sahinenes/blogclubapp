@@ -1,16 +1,10 @@
 # blogclubapp
 
-A new Flutter project.
+MVC Patterni ile Yüksek Performanslı Flutter Uygulaması Tasarımı
+Bu uygulama tasarımı ile kullanıcıların çoklu dil desteği sayesinde farklı dillerde kolayca iletişim kurmalarına olanak tanıyan altayıpıyı oluşturmayı öğrendim. Ayrıca, MVC patterni ve MobX kullanarak uygulamanın performansını arttırdım.
 
-## Getting Started
+Bu uygulamadaki ana düşünce, çoklu dil desteği sayesinde kullanıcıların dil tercihlerine göre uygulamayı otomatik olarak ayarlar. MVC patterni, uygulamanın kod yapısını düzenler ve daha okunabilir hale getirir. MobX, uygulamanın performansını optimize eder ve kullanıcı deneyimini geliştirir. Easy_localization, çoklu dil desteği sağlar ve uygulamanın kullanılabilirliğini artırır.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Youtube](https://youtu.be/H9xpPhCvaWw "Youtube video")
+[Tasarım](https://www.uistore.design/items/blog-club-free-ui-kit-for-figma/ "Tasarım")
